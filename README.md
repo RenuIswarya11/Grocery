@@ -1,4 +1,4 @@
-# Simple Grocery List Application
+# Simple Grocery List
 
 This is a basic grocery list page created with HTML, CSS, and JavaScript. It allows users to add grocery items along with quantities, view the list, and delete items as needed.
 
@@ -16,5 +16,5 @@ This is a basic grocery list page created with HTML, CSS, and JavaScript. It all
 
 ## Screenshots
 
-![Grocery List Page Screenshot](grocery page.png)
+![Grocery List Page Screenshot](./grocerypage.png)
 
